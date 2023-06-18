@@ -1,0 +1,15 @@
+com\mycompany\servlets\RegistrationServlet.class
+com\mycompany\servlets\AddEvent.class
+com\mycompany\dao\StudentNameDao.class
+com\mycompany\servlets\SaveEvent.class
+com\mycompany\dao\ProfDao.class
+com\mycompany\dao\StudentDao.class
+com\mycompany\servlets\logoutServlet.class
+com\mycompany\entities\Prof.class
+com\mycompany\entities\Event.class
+com\mycompany\servlets\loginServlet.class
+com\mycompany\tcs\JakartaRestConfiguration.class
+com\mycompany\helper\HybernateUtil.class
+com\mycompany\tcs\resources\JakartaEE8Resource.class
+com\mycompany\helper\FactoryProvider.class
+com\mycompany\entities\Student.class
